@@ -1,7 +1,3 @@
-.walrus-showing {
-  display: none;
-}
-
 .clickable{
   cursor: pointer;
   color: #0088cc;
@@ -9,4 +5,17 @@
 
 .clickable:hover{
   text-decoration: underline;
+}
+
+.fadeout {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.fadeout:hover {
+  text-decoration: underline;
+}
+
+#walrus-showing {
+  display: none;
 }
