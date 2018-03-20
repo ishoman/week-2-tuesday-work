@@ -1,0 +1,23 @@
+img {
+  width: 50%;
+}
+
+.btn-black {
+  background-color: black;
+  color: white;
+}
+
+.btn-white {
+  background-color: lightgray;
+  color: black;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
+  color: black;
+}
