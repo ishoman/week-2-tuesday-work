@@ -16,6 +16,18 @@
   text-decoration: underline;
 }
 
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: gold;
+}
+
+.red-background {
+  background-color: red;
+}
+
 #walrus-showing {
   display: none;
 }
