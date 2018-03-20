@@ -1,12 +1,12 @@
-body {
-  background-color: #f1f1f1;
+.walrus-showing {
+  display: none;
 }
 
-img {
-  width: 70%;
+.clickable{
+  cursor: pointer;
+  color: #0088cc;
 }
 
-.col-md-6 {
-  text-align: center;
-  margin-top: 100px;
+.clickable:hover{
+  text-decoration: underline;
 }
